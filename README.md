@@ -1,2 +1,2 @@
 # CSA1024
-This is my first project.
+This is a sample.
